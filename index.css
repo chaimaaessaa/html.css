@@ -1,0 +1,228 @@
+.parent{
+    border: 1px solid rgb(255, 255, 255);
+    height: 300px;
+    display: flex;
+    background-color: white
+}
+.parent h1{
+    color: crimson;
+    text-decoration: solid;
+    font-style: oblique;
+}
+.parent button{
+   border-radius: 1px;
+   background-color: rgb(255, 143, 143);
+   color: white;
+   text-decoration: solid;
+   height: 90px;
+   width: 100px;
+   margin-left: 10px;
+   margin-top: 150px;
+   }
+   .mere{
+    border: 1px solid rgb(255, 255, 255);
+    height: 90px;
+    width: 400px;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(0, 82, 114);
+    margin: auto;
+   }
+   .mere h1{
+    text-align: center ;
+    text-decoration: underline;
+    color: white;
+   }
+   .frere{
+    height: 300px;
+    border: 1px solid rgb(255, 252, 252);
+    gap: 150px;
+    display: flex;
+    padding-left: 150px;
+   }
+  .chil1{
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+  }
+  .chil1  img{
+    height: 300px;
+    width: 300px;
+  }
+  
+  .chil2{
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+  }
+  .chil2 img{
+    height: 300px;
+    width: 300px;
+  }
+  .chil3{
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+  }
+  .chil3 img{
+    height: 300px;
+    width: 300px;
+  }
+  .soeur{
+    height: 300px;
+    border: 1px solid rgb(255, 255, 255);
+    gap: 150px;
+    display: flex;
+    padding-left: 150px;
+    padding: 20px;
+  }
+  .girl1{
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+  }
+  .girl1 img{
+    height: 300px;
+    width: 300px;
+  }
+.girl2{
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+}
+.girl2 img{
+    height: 300px;
+    width: 300px;
+
+}
+.girl3{
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+}
+.girl3 img{
+    height: 300px;
+    width: 300px;
+}
+.oncle{
+    height: 300px;
+    border: 1px solid rgb(255, 255, 255);
+    gap: 170px;
+    display: flex;
+    padding-left: 150px;
+    padding: 70px;
+  }
+.cousin1{
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+}
+.cousin1 img{
+    height: 300px;
+    width: 300px;
+}
+.cousin2 {
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+}
+.cousin2 img{
+    height: 300px;
+    width: 300px;
+}
+.cousin3{
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+}
+.cousin3 img{
+    height: 300px;
+    width: 300px;
+}
+.amis{
+    height: 300px;
+    border: 1px solid rgb(255, 249, 249);
+    gap: 200px;
+    display: flex;
+    padding-left: 150px;
+    padding: 20px;
+}
+.numero1{
+    height: 300px;
+    width: 300px;
+    border: 1px solid rgb(2, 2, 2);
+}
+.numero2{
+    height: 300px;
+    width: 300px;
+    border: 1px solid rgb(255, 254, 254);
+    
+}
+.numero3{
+    height: 300px;
+    width: 300px;
+    border: 1px solid rgb(32, 32, 32);
+
+}
+.numero1 img{
+    height: 300px;
+    width: 300px;
+}
+.numero3 img{
+    height: 300px;
+    width: 300px;
+}
+.numero2 p{
+    color: black;
+}
+.friend{
+    height: 300px;
+    border: 1px solid rgb(255, 255, 255);
+    gap: 200px;
+    display: flex;
+    padding-left: 150px;
+    padding: 20px;
+}
+.friend1{
+    height: 300px;
+    width: 300px;
+    border: 1px solid rgb(19, 14, 14);
+}
+.friend1 img{
+    height: 300px;
+    width: 300px;
+}
+.friend2{
+    height: 300px;
+    width: 300px;
+    border: 1px solid rgb(0, 0, 0);
+}
+.friend2 img{
+    height: 300px;
+    width: 300px;
+}
+.friend3{
+    height: 300px;
+    width: 300px;
+    border: 1px solid rgb(10, 10, 10);
+}
+.friend3 img{
+    height: 300px;
+    width: 300px;
+}
+
+
+.final{
+    height: 700px;
+    border: 10px  rgb(255, 143, 143);
+background-color:  rgb(0, 82, 114);
+}
+.final h1{
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    text-decoration: underline ;
+    text-align: center;
+}
+.final h3{
+    color: rgb(255, 255, 255);
+    text-align: 
+}
